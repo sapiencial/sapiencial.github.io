@@ -117,3 +117,6 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 
 github: [metadata]
+
+url: sapiencial.github.io
+baseurl: /
